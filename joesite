@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+    body{
+                background-color: #fff;
+             
+            }
+      p { 
+           position: fixed;
+           top: 50%;
+           left: 50%;
+           margin-top: -100px;
+            margin-left: -200px;
+            }
+    </style>
+
+    </head>
+    <body>
+
+        <p style="color: #000;  font-size: 40px; margin: 0 auto;text-align: center; width: 400px;"> <b> Give me a minute. </b> </p>
+
+        
+    </body>
+</html>
